@@ -1,0 +1,20 @@
+{
+  "name": "x-md-expression",
+  "version": "1.0.0",
+  "description": "record all the expression used in md file。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmmn/x-md-expression.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmmn/x-md-expression/issues"
+  },
+  "homepage": "https://github.com/xmmn/x-md-expression#readme"
+}
